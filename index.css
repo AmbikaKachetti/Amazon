@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .amazon-logo{
+    padding: 10px;
+} */
+
+/* .location-container{
+    padding: 10px;
+} */
+.dotin{
+    position: relative;
+    margin-left: -2px;
+    margin-top: -5px;
+}
+.location-text{
+    font-size: 14px;
+}
+.button-color-serach{
+    color: black;
+    background-color: #f3a847;
+}
+
+.caret-icon{
+    font-size: 12px;
+}
+.country-lang{
+    font-size: 12px;
+}
+.country-section{
+    padding: 8px;
+}
+.sign-in-container{
+    font-size: 14px;
+    /* padding: 10px; */
+}
+.return-details-section{
+    font-size: 14px;
+    /* padding: 10px; */
+}
+.cart-icon{
+    font-size: 30px;
+    color: rgb(248, 84, 24);
+}
+/* .cart-container{
+    padding: 10px;
+} */
+.cart-text{
+    font-size: 14px;
+}
+.amazon-logo:hover,
+.location-container:hover,
+.country-setionc:hover,
+.sign-in-container:hover,
+.return-details-section:hover,
+.cart-container:hover
+{
+    border: 1px solid orange; 
+}
+.menu-container{
+    
+    background-color: #232f3e;
+}
+.menu-container-text{
+    font-size: 14px;
+}
+
+.menu-bar i{
+    padding-right: 5px;
+    font-size: 15px;
+}
+.container-hov:hover{
+    border: 1px solid orange;
+}
+
+/* navbar styling */
+.nav-bar-item{
+    font-size: 13px;
+    margin: 2px;
+}
+.nav-bar-item:hover{
+    border: 1px solid orangered;
+}
+/* cards-styling */
+.card-text{
+    padding-top: 5px;
+}
+.footer-content{
+    padding: 50%;
+}
+/* Navbar offcanvas style */
+.offcanvas-dody-text{
+    padding: 10px;
+    margin-left: 24px;
+}
+.offcanvas-text-style{
+    font-size: 16px;
+}
+/* Footer style */
+.footer-style{
+    font-size: 12px;
+}
+.footer-content{
+    background-color: #293546;
+    font-size: 14px;
+}
+.backtotop-style{
+    background-color: #314152;
+    font-size: 13px;
+}
+.font-style-footer-content{
+    font-size: 16px;
+}
